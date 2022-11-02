@@ -26,6 +26,9 @@ has kernel module signing enforcement disabled.
 To build properly, one must compile with:
 `make -j72 LOCALVERSION=`
 
+The output file will be in `arch/x86/boot/bzImage`
+Pre-built images may be available in /build on this repo.
+
 # Normal Readme
 ============
 ============
